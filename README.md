@@ -1,13 +1,41 @@
-# SoPra Projekt 2
+# Cable Car: A Strategic Board Game Application
 
-## Das Spiel heißt Cable Car
+## Overview 🖥️
 
-Diagramme sind im Ordner "Diagrams"
-Ansonsten alles ist in "src"
+This repository contains the Kotlin-based application for the strategic board game "Cable Car," also known as Metro. Developed as part of the Software Lab course at TU Dortmund, the application allows players to build the longest train routes on a shared board by establishing 'roads' between stations.
 
+## Team Leadership & Responsibilities 📈
 
+Led by [Your Name], the team comprised eight members. The leadership responsibilities included:
 
+- Coordinating group meetings
+- Overseeing quality and time management
+- Presenting project milestones
+- Collaborating on requirement analysis and architectural design
+- Implementing the graphical user interface (GUI)
 
-* Aktuelle Informationen zu diesem SoPra: https://sopra.cs.tu-dortmund.de/wiki/sopra/22d/start
-* Beispielprojekt Kartenspiel War: https://sopra-gitlab.cs.tu-dortmund.de/internal/bgw-war
-* Weitere Links: https://sopra.cs.tu-dortmund.de/wiki/infos/links/
+## Learning Objectives 📚
+
+The project aims to enhance the following skills:
+
+- Practical application of programming and software engineering techniques
+- Software development based on a pre-defined model
+- Use of an IDE with phase-specific tools
+- Requirement analysis and architectural design
+- Peer code reviews
+- Quick adaptation to new technologies and tools
+
+## Tools 🛠️
+
+The following tools were used in the development of this project:
+
+- Kotlin
+- Java Development Kit
+- IntelliJ IDEA
+- GitLab
+- Astah Professional
+- BoardGameWork and BoardGameWork NET frameworks
+
+## Final Assignment 🎓
+
+This project serves as the final assignment for the Software Lab course at TU Dortmund.
