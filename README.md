@@ -36,4 +36,18 @@ The following tools were used in the development of this project:
 - Astah Professional
 - BoardGameWork and BoardGameWork NET frameworks
 
+## Team Members 👥
+
+The following individuals contributed to this project:
+
+- Bashar
+- Ahmed
+- Marko
+- Ahmad
+- Kim
+- Hao
+- Maisan
+- Till
+- Oussema
+- André
 
