@@ -36,6 +36,4 @@ The following tools were used in the development of this project:
 - Astah Professional
 - BoardGameWork and BoardGameWork NET frameworks
 
-## Final Assignment 🎓
 
-This project serves as the final assignment for the Software Lab course at TU Dortmund.
