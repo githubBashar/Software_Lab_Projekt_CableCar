@@ -6,7 +6,7 @@ This repository contains the Kotlin-based application for the strategic board ga
 
 ## Team Leadership & Responsibilities 📈
 
-Led by me, the team comprised eight members. The leadership responsibilities included:
+Led by me, the team comprised 11 members. The leadership responsibilities included:
 
 - Coordinating group meetings
 - Overseeing quality and time management
